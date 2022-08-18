@@ -1,5 +1,7 @@
 {
-  "user": { 
+  "user": [
+    { 
       "token": "test@123!dasfdsafsdkjfskdjfskdhfkdsfsdf"
     }
+  ]
 }
