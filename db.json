@@ -1,7 +1,5 @@
 {
-  "user": { 
-      "id": 1, 
-      "firstName": "Raph",
-      "lastName": "Lopez"
+  "data": { 
+      "token": "test@123!dasfdsafsdkjfskdjfskdhfkdsfsdf", 
     }
 }
